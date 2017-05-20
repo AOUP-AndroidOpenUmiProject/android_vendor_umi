@@ -1,3 +1,6 @@
 [submodule "SUPER"]
 	path = SUPER
 	url = https://github.com/AOUP-AndroidOpenUmiProject/android_vendor_umi_SUPER.git
+[submodule "MAX"]
+	path = MAX
+	url = https://github.com/AOUP-AndroidOpenUmiProject/android_vendor_umi_MAX.git
